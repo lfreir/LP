@@ -137,7 +137,7 @@ main {
     color: rgb(187, 0, 255);
 }
 
-#meusConhecimentos p, meusConhecimentos ul li{
+#meusConhecimentos p, ul, li{
     font-size: 26px;
     font-weight: 600;
 }
